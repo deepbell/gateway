@@ -1,3 +1,4 @@
+﻿aaaa
 [root@coyote bin]# ./test 
 uartread.dev is /dev/ttyS0
 uartread.speed is 115200
